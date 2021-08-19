@@ -1,4 +1,4 @@
-FROM golang:1.7.5
+FROM golang:bullseye
 
 MAINTAINER Herman Junge <herman.junge@consensys.net>
 
