@@ -1,4 +1,4 @@
-FROM golang:1.7.5
+FROM golang:1.20.13
 
 MAINTAINER Herman Junge <herman.junge@consensys.net>
 
